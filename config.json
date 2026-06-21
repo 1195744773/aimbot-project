@@ -1,0 +1,14 @@
+{
+  "crop_size": 320,
+  "frame_rate": 30,
+  "bitrate": 5,
+  "model_path": "E:\\aimbot_project\\dw_delta_416_v26s.onnx",
+  "conf_threshold": 0.55,
+  "iou_threshold": 0.45,
+  "detect_body": true,
+  "detect_head": true,
+  "line_thickness": 2,
+  "skip_frames": 1,
+  "target_priority": [0, 1, 2],
+  "size_tolerance": 0.15
+}

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Large models (use Git LFS or Actions artifacts instead)
+*.onnx
+*.tflite
+*.pt
+*.pth
+*.weights
+
+# Temp files
+*.log
+*.tmp
+.DS_Store

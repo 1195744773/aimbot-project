@@ -2,7 +2,7 @@ import tf2onnx
 import tensorflow as tf
 import sys
 
-TFLITE_PATH = "dw_delta_416_v26s.tflite"
+TFLITE_PATH = "dw_Delta_416_v26s.tflite"
 ONNX_PATH = "dw_delta_416_v26s.onnx"
 
 print(f"Loading {TFLITE_PATH}...")
